@@ -39,7 +39,7 @@ function App() {
       />
 
       {/* AddTodo ko handleAdd pass karo */}
-       handleAdd={handleAdd} 
+       {handleAdd} 
     </>
   );
 }
